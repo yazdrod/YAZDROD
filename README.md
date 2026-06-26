@@ -1,5 +1,3 @@
-<h3 align="left">Hi 👋my name is Azog</h3>
-
 ###
 
 <div align="center">
